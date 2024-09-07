@@ -1,0 +1,74 @@
+/* About Us Page Styling */
+.about-us {
+    padding: 40px 0;
+  }
+  
+  .about-us h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #007bff;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  .about-us .lead {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .about-us p {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .about-us img {
+    border: 5px solid #007bff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Customer Reviews Section */
+  .reviews-section h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #007bff;
+    margin-bottom: 30px;
+  }
+  
+  .review-card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  .review-card .card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  .review-card .card-text {
+    font-size: 1rem;
+    color: #555;
+    font-style: italic;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .about-us h1 {
+      font-size: 2.5rem;
+    }
+  
+    .about-us .lead {
+      font-size: 1.25rem;
+    }
+  
+    .reviews-section h2 {
+      font-size: 2rem;
+    }
+  }
+  

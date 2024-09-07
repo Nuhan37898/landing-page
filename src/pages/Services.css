@@ -1,0 +1,60 @@
+/* Services Page Styling */
+.service-card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 10px;
+  }
+  
+  .service-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .service-card .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  .service-card .card-text {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  .service-card .card-body {
+    padding: 20px;
+  }
+  
+  /* Headline Styling */
+  .services-header h1 {
+    font-size: 3rem; /* Larger Font Size */
+    font-weight: bold; /* Bold Text */
+    color: #007bff; /* Blue color */
+    text-transform: uppercase; /* Uppercase text */
+    letter-spacing: 2px; /* Spacing between letters */
+    position: relative;
+    margin-bottom: 40px;
+    font-family: 'Montserrat', sans-serif; /* Optional custom font */
+  }
+  
+  /* Decorative underline for headline */
+  .services-header h1::after {
+    content: '';
+    width: 150px;
+    height: 5px;
+    background: linear-gradient(90deg, rgba(0,123,255,1) 0%, rgba(0,200,255,1) 100%);
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 50px;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .services-header h1 {
+      font-size: 2.5rem; /* Adjust font size for smaller screens */
+    }
+  }
+  

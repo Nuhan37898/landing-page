@@ -1,0 +1,24 @@
+/* Adjust navbar styling to center the items */
+.navbar-nav {
+    margin: 0 auto; /* Center the nav items horizontally */
+  }
+  
+  .navbar-brand {
+    margin-right: auto; /* Push the brand to the left */
+  }
+  
+  .nav-link {
+    padding: 0 15px; /* Add some space between the links */
+    font-size: 1rem; /* Adjust font size */
+    font-weight: bold; /* Make links bold */
+  }
+  
+  .navbar {
+    padding: 15px 0; /* Add padding for a larger navbar */
+  }
+  
+  /* Adjust navbar button styling */
+.navbar .btn {
+  font-size: 0.9rem;
+  padding: 0.5rem 1rem;
+}

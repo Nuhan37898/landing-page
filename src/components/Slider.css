@@ -1,0 +1,14 @@
+/* Slider Container */
+.slider-container {
+    margin-bottom: 30px;
+  }
+  
+  /* Slider Title Styling */
+  .slider-title {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: #333;
+  }
+  
