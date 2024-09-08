@@ -7,7 +7,7 @@ const Card = ({ title, text, imgSrc, buttonLink }) => {
       <div className="card-body">
         <h5 className="card-title">{title}</h5>
         <p className="card-text">{text}</p>
-        <a href={buttonLink} className="btn btn-primary">Go somewhere</a>
+        <a href={buttonLink} className="btn btn-primary">Let's Go</a>
       </div>
     </div>
   );

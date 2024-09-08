@@ -3,16 +3,16 @@ import './About.css'; // Custom CSS for About Us page
 
 const reviews = [
   {
-    name: "Jane Doe",
-    review: "Our trip was absolutely amazing! The itinerary was perfectly tailored to our interests, and the guide was incredibly knowledgeable. We couldn't have asked for a better experience!"
+    name: "Abdullah Al Mamun",
+    review: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat exercitationem laboriosam nostrum, cupiditate eum reprehenderit ab cum maxime aliquam in itaque nobis quod quae debitis iste vitae veniam vel necessitatibus."
   },
   {
-    name: "John Smith",
-    review: "The service we received was top-notch from start to finish. The customer support team was responsive and helpful, and the travel package exceeded our expectations. Highly recommend!"
+    name: "Mahmudur Rahman",
+    review: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat exercitationem laboriosam nostrum, cupiditate eum reprehenderit ab cum maxime aliquam in itaque nobis quod quae debitis iste vitae veniam vel necessitatibus."
   },
   {
-    name: "Emily Johnson",
-    review: "We had a fantastic time exploring new destinations with this agency. The personalized attention and attention to detail made our vacation stress-free and enjoyable. Will definitely book again!"
+    name: "Nuruzzaman Rocky",
+    review: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat exercitationem laboriosam nostrum, cupiditate eum reprehenderit ab cum maxime aliquam in itaque nobis quod quae debitis iste vitae veniam vel necessitatibus."
   }
 ];
 

@@ -7,26 +7,26 @@ const Home = () => {
   // Data for the cards
   const cardsData = [
     {
-      title: 'Card 1',
-      text: 'This is a description for card 1.',
+      title: 'Adventure Getaways',
+      text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat exercitationem laboriosam nostrum, cupiditate eum reprehenderit ab cum maxime aliquam in itaque nobis quod quae debitis iste vitae veniam vel necessitatibus.',
       imgSrc: 'https://picsum.photos/300/200', // Updated image source
       buttonLink: '#',
     },
     {
-      title: 'Card 2',
-      text: 'This is a description for card 2.',
+      title: 'Cultural Journeys',
+      text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat exercitationem laboriosam nostrum, cupiditate eum reprehenderit ab cum maxime aliquam in itaque nobis quod quae debitis iste vitae veniam vel necessitatibus.',
       imgSrc: 'https://picsum.photos/300/200?random=2', // Updated image source
       buttonLink: '#',
     },
     {
-      title: 'Card 3',
-      text: 'This is a description for card 3.',
+      title: 'Luxury Escapes',
+      text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat exercitationem laboriosam nostrum, cupiditate eum reprehenderit ab cum maxime aliquam in itaque nobis quod quae debitis iste vitae veniam vel necessitatibus.',
       imgSrc: 'https://picsum.photos/300/200?random=3', // Updated image source
       buttonLink: '#',
     },
     {
-      title: 'Card 4',
-      text: 'This is a description for card 4.',
+      title: 'Family Vacations',
+      text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat exercitationem laboriosam nostrum, cupiditate eum reprehenderit ab cum maxime aliquam in itaque nobis quod quae debitis iste vitae veniam vel necessitatibus.',
       imgSrc: 'https://picsum.photos/300/200?random=4', // Updated image source
       buttonLink: '#',
     }

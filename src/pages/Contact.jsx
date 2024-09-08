@@ -4,9 +4,9 @@ const Contact = () => {
   return (
     <div>
       <h2>Contact Us</h2>
-      <p>Email: info@example.com</p>
-      <p>Phone: +123 456 7890</p>
-      <p>Address: 1234 Main St, Anytown, USA</p>
+      <p>Email: nuhan@itcbd.com</p>
+      <p>Phone: +88 013 18753905 </p>
+      <p>Address: 466/B Khilgaon, Dhaka-1219</p>
     </div>
   );
 };

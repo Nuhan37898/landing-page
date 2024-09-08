@@ -5,7 +5,7 @@ const Slider = ({ id, images, title }) => {
   return (
     <div className="slider-container">
       {/* Slider Title */}
-      <h3 className="slider-title">{title}</h3>
+      
       
       {/* Bootstrap Carousel */}
       <div id={id} className="carousel slide" data-bs-ride="carousel">
@@ -25,6 +25,7 @@ const Slider = ({ id, images, title }) => {
           <span className="visually-hidden">Next</span>
         </button>
       </div>
+      <h3 className="slider-title">{title}</h3>
     </div>
   );
 };
